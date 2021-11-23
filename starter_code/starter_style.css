@@ -22,7 +22,7 @@
 }
 
 .player--jump {
-  animation: jump 0.5s linear;
+  animation: jump 5s linear;
 }
 
 .cactus {
@@ -42,7 +42,7 @@
     transform: translateY(0px);
   }
   50% {
-    transform: translateY(-80px);
+    transform: translateY(-300px);
   }
   100% {
     transform: translateY(0px);
